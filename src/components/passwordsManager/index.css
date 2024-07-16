@@ -1,0 +1,11 @@
+.password-manager-container {
+  background-image: linear-gradient(#9ba9eb, #c3caea);
+  padding: 90px;
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+.password-manager-img {
+  width: 150px;
+}
